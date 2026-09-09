@@ -43,7 +43,7 @@ The system validates each expense before adding it, and provides functions to su
 Run the script directly to see the expense tracker in action:
 
 ```bash
-python expense_tracker.py
+python expense-tracker.py
 ```
 
 The script includes a testing section at the bottom that:
